@@ -1,2 +1,2 @@
-# bongomoney
+# bongo.money
 FREE MONEY
